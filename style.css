@@ -57,6 +57,8 @@ main p{
 footer img{
     height:15px;
     wight:20px;
+    text-align:left;
+    padding:10px;
 }
 footer p{
     padding:10px;
