@@ -1,7 +1,3 @@
-header img{
-    height:30px;
-    wight:30px;
-}
 body{
     font-family: cursive;
     background-color: #29769A;
@@ -22,7 +18,7 @@ header,footer{
 a {
     color: white;
 }
-img{
+main img{
     width: 750px;
     height: 417px; 
     border: 3px solid white;
@@ -57,6 +53,10 @@ main p{
     margin-right:200px;
     margin-bottom: 100px;
     font-size:17px;
+}
+footer img{
+    height:30px;
+    wight:30px;
 }
 footer p{
     padding:10px;
