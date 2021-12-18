@@ -4,13 +4,12 @@ body{
     color: white;
     text-align: center;
 }
-body header,footer{
+header,footer{
     font-family: sans-serif;
     font-size: 20px;
 }
 footer{
     text-align: center;
-    background-color: #487F9A;
 }
 a {
     color: white;
@@ -52,13 +51,18 @@ main p{
     font-size:17px;
 }
 footer p{
-    padding:10px;
+    background-color:#487F9A ;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding:5px;
     margin-top:20px;
-    text-align:left;
+    text-align:center;
     padding:10px;
-    margin-left:150px;
+    margin-left:200px;
+    margin-right: 200px;
 }
 header a {
+    background-color: #487F9A;
     padding:5px;
     border:3px solid white;
     border-radius:10px;
