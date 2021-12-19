@@ -78,3 +78,6 @@ main a{
     color: #487F9A;
     font-size: 20px;
 }
+a:hover{
+    color: black;
+}
