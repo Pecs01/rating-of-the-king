@@ -13,15 +13,13 @@ footer{
 }
 a {
     color: white;
+    text-decoration: none;
 }
 main img{
     width: 750px;
     height: 417px; 
     border: 3px solid white;
     border-radius: 15px;
-}
-.container{
-    text-align: center;
 }
 p{
     text-align: left;
@@ -69,4 +67,14 @@ header a {
     text-decoration: none;
     margin-top:10px;
     margin:30px;
+}
+main a{
+    background-color: white;
+    padding:5px;
+    border:3px solid #487F9A;
+    border-radius:10px;
+    text-decoration: none;
+    margin:30px;
+    color: #487F9A;
+    font-size: 20px;
 }
